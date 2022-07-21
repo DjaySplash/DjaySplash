@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DjaySplash
-- 👀 I’m interested in Dapp Programming
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on development of DeFi protocols
+- 👀 I’m interested in Bictoin Infrastructure Development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on development of Lightning Network and Bitcoin Core node software
 - 📫 How to reach me...
 
 <!---
